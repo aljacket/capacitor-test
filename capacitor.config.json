@@ -1,0 +1,8 @@
+{
+  "appId": "com.sesame.hub",
+  "appName": "sesame-hub-test",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
